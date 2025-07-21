@@ -1,0 +1,13 @@
+P:\Visual Studio\source\repos\notify-toast\ActionCenterListener\bin\Debug\net6.0-windows10.0.17763.0\ActionCenterListener.deps.json
+P:\Visual Studio\source\repos\notify-toast\ActionCenterListener\bin\Debug\net6.0-windows10.0.17763.0\ActionCenterListener.dll
+P:\Visual Studio\source\repos\notify-toast\ActionCenterListener\bin\Debug\net6.0-windows10.0.17763.0\ActionCenterListener.pdb
+P:\Visual Studio\source\repos\notify-toast\ActionCenterListener\obj\Debug\net6.0-windows10.0.17763.0\ActionCenterListener.csproj.AssemblyReference.cache
+P:\Visual Studio\source\repos\notify-toast\ActionCenterListener\obj\Debug\net6.0-windows10.0.17763.0\ActionCenterListener.GeneratedMSBuildEditorConfig.editorconfig
+P:\Visual Studio\source\repos\notify-toast\ActionCenterListener\obj\Debug\net6.0-windows10.0.17763.0\ActionCenterListener.AssemblyInfoInputs.cache
+P:\Visual Studio\source\repos\notify-toast\ActionCenterListener\obj\Debug\net6.0-windows10.0.17763.0\ActionCenterListener.AssemblyInfo.cs
+P:\Visual Studio\source\repos\notify-toast\ActionCenterListener\obj\Debug\net6.0-windows10.0.17763.0\ActionCenterListener.csproj.CoreCompileInputs.cache
+P:\Visual Studio\source\repos\notify-toast\ActionCenterListener\obj\Debug\net6.0-windows10.0.17763.0\ActionCenterListener.sourcelink.json
+P:\Visual Studio\source\repos\notify-toast\ActionCenterListener\obj\Debug\net6.0-windows10.0.17763.0\ActionCenterListener.dll
+P:\Visual Studio\source\repos\notify-toast\ActionCenterListener\obj\Debug\net6.0-windows10.0.17763.0\refint\ActionCenterListener.dll
+P:\Visual Studio\source\repos\notify-toast\ActionCenterListener\obj\Debug\net6.0-windows10.0.17763.0\ActionCenterListener.pdb
+P:\Visual Studio\source\repos\notify-toast\ActionCenterListener\obj\Debug\net6.0-windows10.0.17763.0\ref\ActionCenterListener.dll
