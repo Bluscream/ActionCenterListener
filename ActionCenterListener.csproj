@@ -4,7 +4,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <Version>1.0.4.2</Version>
+    <Version>1.0.4.3</Version>
     <RepositoryUrl>https://github.com/Bluscream/ActionCenterListener</RepositoryUrl>
     <SupportedOSPlatformVersion>7.0</SupportedOSPlatformVersion>
   </PropertyGroup>

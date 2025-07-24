@@ -1,1 +1,1 @@
-powershell -ExecutionPolicy Bypass -Command "publish.ps1" -github -nuget -csproj ActionCenterListener.csproj %*
+powershell -ExecutionPolicy Bypass -Command "publish.ps1" -git -github -nuget -csproj ActionCenterListener.csproj %*
